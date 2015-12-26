@@ -13,4 +13,4 @@ vignettes/*.html
 vignettes/*.pdf
 .Rproj.user
 *.doc
-*.docx
+Notes.docx
