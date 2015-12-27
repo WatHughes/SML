@@ -15,4 +15,5 @@ vignettes/*.pdf
 *.doc
 Notes.docx
 NotesX.docx
+~$NotesX.docx
 SMLNotesW4X.docx
